@@ -9,5 +9,11 @@ export type AmplifyDependentResourcesAttributes = {
             "AppClientIDWeb": "string",
             "AppClientID": "string"
         }
+    },
+    "api": {
+        "notesapp": {
+            "GraphQLAPIIdOutput": "string",
+            "GraphQLAPIEndpointOutput": "string"
+        }
     }
 }
